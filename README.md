@@ -126,7 +126,7 @@ Based on findings:
 ## 📊 Sample Visualizations
 
 ### Sentiment Distribution  
-![Sentiment Chart]([https://github.com/sumedhsp04/Costumer-Sentiment-Analysis/blob/main/cloud.png))
+![Sentiment Chart]([https://github.com/imankit-0921/Costumer-Sentiment-Analysis/blob/main/cloud.png))
 
 ### Negative Issue Categories  
 ![Issue Chart](https://github.com/imankit-0921/Costumer-Sentiment-Analysis/blob/main/output.png)
