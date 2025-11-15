@@ -126,13 +126,13 @@ Based on findings:
 ## 📊 Sample Visualizations
 
 ### Sentiment Distribution  
-![Sentiment Chart](https://github.com/sumedhsp04/Customer-Sentiment-Analysis/assets/54770758/f2965ecc-e527-438c-98fa-676046828f71)
+![Sentiment Chart]([https://github.com/sumedhsp04/Customer-Sentiment-Analysis/assets/54770758/f2965ecc-e527-438c-98fa-676046828f71](https://github.com/imankit-0921/Costumer-Sentiment-Analysis/blob/main/cloud.png))
 
 ### Negative Issue Categories  
-![Issue Chart](https://github.com/sumedhsp04/Customer-Sentiment-Analysis/assets/54770758/d33f5f46-3f16-4174-a05c-53a60da8d08d)
+![Issue Chart](https://github.com/imankit-0921/Costumer-Sentiment-Analysis/blob/main/output.png)
 
 ### Company-Wise Sentiment Comparison  
-![Company Chart](https://github.com/sumedhsp04/Customer-Sentiment-Analysis/assets/54770758/6d800abe-3a24-4ba9-acec-04ed7bee3a0e)
+![Company Chart](https://github.com/imankit-0921/Costumer-Sentiment-Analysis/blob/main/image.png)
 
 ---
 
