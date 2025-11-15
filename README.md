@@ -41,6 +41,17 @@ Key attributes include:
 The dataset contains **over 500K+ rows**, making it ideal for real-world NLP analysis.
 
 ---
+## 📁 Dataset Storage Note
+
+The dataset used in this project is large and exceeds GitHub’s upload limit.
+Hence, it is stored securely on **Google Drive**.
+
+You can download the dataset from this link:  
+🔗 [https://drive.google.com/file/d/XXXXXXXX/view?usp=sharing](https://drive.google.com/file/d/1eehUW2qTa5GelWPadvrQBrmUMqDBdL1P/view?usp=drive_link)
+
+Once downloaded, place it inside your project folder or load it directly in Colab.
+
+---
 
 ## 🎯 Problem Statement
 
